@@ -1,0 +1,917 @@
+#EXTM3U
+#EXTINF:0 tvg-id="tvp.pl" tvg-name="tvp.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/tvp.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227464&extension=ts
+#EXTINF:0 tvg-id="tvp1.pl" tvg-name="tvp1.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVP1_logo.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP 1 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227463&extension=ts
+#EXTINF:0 tvg-id="tvp2.pl" tvg-name="tvp2.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVP2_logo.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP 2 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227462&extension=ts
+#EXTINF:0 tvg-id="tvp3.pl" tvg-name="tvp3.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVP3_(2016).svg.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227461&extension=ts
+#EXTINF:0 tvg-id="tvppolonia.pl" tvg-name="tvppolonia.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/tvp.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP POLONIA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227460&extension=ts
+#EXTINF:0 tvg-id="tv4.pl" tvg-name="tv4.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TV4-2023.svg.png" group-title="┃PL┃ OGOLNE",┃PL┃ TV4 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227459&extension=ts
+#EXTINF:0 tvg-id="tv6.pl" tvg-name="tv6.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TV6_Logo_2022.svg.png" group-title="┃PL┃ OGOLNE",┃PL┃ TV6
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227457&extension=ts
+#EXTINF:0 tvg-id="polonia1.pl" tvg-name="polonia1.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/LogoPolonia1.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLONIA 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227456&extension=ts
+#EXTINF:0 tvg-id="polsat.pl" tvg-name="polsat.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_logo.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227455&extension=ts
+#EXTINF:0 tvg-id="polsat2.pl" tvg-name="polsat2.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_2_logo.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT 2 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227454&extension=ts
+#EXTINF:0 tvg-id="superpolsat.pl" tvg-name="superpolsat.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Super_Polsat_2021_gradient.svg.png" group-title="┃PL┃ OGOLNE",┃PL┃ SUPER POLSAT
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227453&extension=ts
+#EXTINF:0 tvg-id="tvn.pl" tvg-name="tvn.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVN_logo.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVN HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227452&extension=ts
+#EXTINF:0 tvg-id="tvn7.pl" tvg-name="tvn7.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVN7_logo_2021.svg.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVN 7 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227451&extension=ts
+#EXTINF:0 tvg-id="tvs.pl" tvg-name="tvs.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVS_(Fernsehsender)_Logo.svg.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVS
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227450&extension=ts
+#EXTINF:0 tvg-id="ttv.pl" tvg-name="ttv.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Ttv_logo.svg.png" group-title="┃PL┃ OGOLNE",┃PL┃ TTV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227449&extension=ts
+#EXTINF:0 tvg-id="tvpuls.pl" tvg-name="tvpuls.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TV_Plus.png" group-title="┃PL┃ OGOLNE",┃PL┃ TV PULS HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227448&extension=ts
+#EXTINF:0 tvg-id="polsatrodzina.pl" tvg-name="polsatrodzina.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Rodzina.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT RODZINA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227447&extension=ts
+#EXTINF:0 tvg-id="tvpseriale.pl" tvg-name="tvpseriale.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/1200px-TVP_SERIALE.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP SERIALE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227412&extension=ts
+#EXTINF:0 tvg-id="canalplusseriale.pl" tvg-name="canalplusseriale.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Seriale_2021_gradient.svg.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT SERIALE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227410&extension=ts
+#EXTINF:0 tvg-id="tvpkultura.pl" tvg-name="tvpkultura.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/tvpkultura.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP KULTURA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227405&extension=ts
+#EXTINF:0 tvg-id="tvnfabula.pl" tvg-name="tvnfabula.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVN_Fabu%C5%82a_logo_2015.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVN FABULA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227403&extension=ts
+#EXTINF:0 tvg-id="tvnturbo.pl" tvg-name="tvnturbo.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVN_Turbo_HD.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVN TURBO HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227402&extension=ts
+#EXTINF:0 tvg-id="tvpuls2.pl" tvg-name="tvpuls2.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/puls2.png" group-title="┃PL┃ OGOLNE",┃PL┃ PULS 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227391&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TBN%20Polska%20Logo%20-%20Large.png" group-title="┃PL┃ OGOLNE",┃PL┃ TBN POLAND
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227370&extension=ts
+#EXTINF:0 tvg-id="tvprozrywka.pl" tvg-name="tvprozrywka.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/tvprozrywka.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP ROZRYWKA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227367&extension=ts
+#EXTINF:0 tvg-id="polsatcafe.pl" tvg-name="polsatcafe.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Caf%C3%A9_2021_gradient.svg.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT CAFE HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227359&extension=ts
+#EXTINF:0 tvg-id="polsatplay.pl" tvg-name="polsatplay.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Play_2021_gradient.svg.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT PLAY HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227358&extension=ts
+#EXTINF:0 tvg-id="polotv.pl" tvg-name="polotv.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polo_TV_(2016).svg.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLO TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227357&extension=ts
+#EXTINF:0 tvg-id="tvnstyle.pl" tvg-name="tvnstyle.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Tvn_style.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVN STYLE HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227352&extension=ts
+#EXTINF:0 tvg-id="polsatfilm.pl" tvg-name="polsatfilm.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsatfilm.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT FILM HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227345&extension=ts
+#EXTINF:0 tvg-id="tvphistoria.pl" tvg-name="tvphistoria.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/1200px-TVP_Historia_logo.svg%20(1).png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP HISTORIA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227329&extension=ts
+#EXTINF:0 tvg-id="polsatdoku.pl" tvg-name="polsatdoku.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Doku_2021_gradient.svg.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT DOKU HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227326&extension=ts
+#EXTINF:0 tvg-id="tvn24.pl" tvg-name="tvn24.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVN_24_HD_Logo.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVN 24 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227282&extension=ts
+#EXTINF:0 tvg-id="tvn24biznesswiat.pl" tvg-name="tvn24biznesswiat.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVN_24_Bis.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVN24 BIZ HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227281&extension=ts
+#EXTINF:0 tvg-id="polsatnews.pl" tvg-name="polsatnews.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_News_2_2021_gradient.svg.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT NEWS HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227280&extension=ts
+#EXTINF:0 tvg-id="polsatnews2.pl" tvg-name="polsatnews2.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_News_2_2021_gradient.svg.png" group-title="┃PL┃ OGOLNE",┃PL┃ POLSAT NEWS 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227279&extension=ts
+#EXTINF:0 tvg-id="wydarzenia24.pl" tvg-name="wydarzenia24.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Wydarzenia.png" group-title="┃PL┃ OGOLNE",┃PL┃ WYDARZENIA 24
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227278&extension=ts
+#EXTINF:0 tvg-id="tvrepublika.pl" tvg-name="tvrepublika.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/tv-republika.png" group-title="┃PL┃ OGOLNE",┃PL┃ TV REPUBLIKA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227277&extension=ts
+#EXTINF:0 tvg-id="wPolsce.pl" tvg-name="wPolsce.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/wpolscepl.png" group-title="┃PL┃ OGOLNE",┃PL┃ WPOLSCE.PL
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227276&extension=ts
+#EXTINF:0 tvg-id="tvpinfo.pl" tvg-name="tvpinfo.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVP_Info_logo.svg.png" group-title="┃PL┃ OGOLNE",┃PL┃ TVP INFO HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227275&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/ITVN_logo.png" group-title="┃PL┃ OGOLNE",┃PL┃ iTVN
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227269&extension=ts
+#EXTINF:0 tvg-id="polsatsportextra.pl" tvg-name="polsatsportextra.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Extra_2021_gradient.svg.png" group-title="┃PL┃ SPORT",┃PL┃ POLSAT SPORT EXTRA HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227311&extension=ts
+#EXTINF:0 tvg-id="polsatsportfight.pl" tvg-name="polsatsportfight.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Fight.png" group-title="┃PL┃ SPORT",┃PL┃ POLSAT SPORT FIGHT HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227310&extension=ts
+#EXTINF:0 tvg-id="canalplussport.pl" tvg-name="canalplussport.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Canal+_Sport_2015.png" group-title="┃PL┃ SPORT",┃PL┃ CANAL+ SPORT HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227309&extension=ts
+#EXTINF:0 tvg-id="canalplussport2.pl" tvg-name="canalplussport2.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Canal+_Sport_2_PL.png" group-title="┃PL┃ SPORT",┃PL┃ CANAL+ SPORT 2 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227308&extension=ts
+#EXTINF:0 tvg-id="canalplussport3.pl" tvg-name="canalplussport3.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/canalsport3.png" group-title="┃PL┃ SPORT",┃PL┃ CANAL+ SPORT 3 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227307&extension=ts
+#EXTINF:0 tvg-id="canalplussport4.pl" tvg-name="canalplussport4.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/canalsport4.png" group-title="┃PL┃ SPORT",┃PL┃ CANAL+ SPORT 4 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227306&extension=ts
+#EXTINF:0 tvg-id="canalplussport5.pl" tvg-name="canalplussport5.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/CANAL+_Sport_5.png" group-title="┃PL┃ SPORT",┃PL┃ CANAL+ SPORT 5 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227305&extension=ts
+#EXTINF:0 tvg-id="sportklub.pl" tvg-name="sportklub.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Sportklub_logo%20(1).png" group-title="┃PL┃ SPORT",┃PL┃ SPORT KLUB HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227304&extension=ts
+#EXTINF:0 tvg-id="eurosport1.pl" tvg-name="eurosport1.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Eurosport.png" group-title="┃PL┃ SPORT",┃PL┃ EUROSPORT 1 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227303&extension=ts
+#EXTINF:0 tvg-id="eurosport2.pl" tvg-name="eurosport2.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Eurosport.png" group-title="┃PL┃ SPORT",┃PL┃ EUROSPORT 2 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227302&extension=ts
+#EXTINF:0 tvg-id="polsatsport.pl" tvg-name="polsatsport.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_2021_gradient.svg.png" group-title="┃PL┃ SPORT",┃PL┃ POLSAT SPORT HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227301&extension=ts
+#EXTINF:0 tvg-id="extremesports.pl" tvg-name="extremesports.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Extreme_Sports_Channel.svg.png" group-title="┃PL┃ SPORT",┃PL┃ EXTREME SPORTS HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227300&extension=ts
+#EXTINF:0 tvg-id="polsatsportpremium1.pl" tvg-name="polsatsportpremium1.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Premium1.png" group-title="┃PL┃ SPORT",┃PL┃ POLSAT SPORT PREM. 1 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227299&extension=ts
+#EXTINF:0 tvg-id="polsatsportpremium2.pl" tvg-name="polsatsportpremium2.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Premium_2_2021.png" group-title="┃PL┃ SPORT",┃PL┃ POLSAT SPORT PREM. 2 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227298&extension=ts
+#EXTINF:0 tvg-id="polsatsportpremium3ppv.pl" tvg-name="polsatsportpremium3ppv.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Premium_3_PPV_2021%20(1).png" group-title="┃PL┃ SPORT",┃PL┃ POLSAT SPORT PREM. 3 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227297&extension=ts
+#EXTINF:0 tvg-id="polsatsportpremium4ppv.pl" tvg-name="polsatsportpremium4ppv.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsat_sport_premium_4.png" group-title="┃PL┃ SPORT",┃PL┃ POLSAT SPORT PREM. 4 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227296&extension=ts
+#EXTINF:0 tvg-id="polsatsportpremium5ppv.pl" tvg-name="polsatsportpremium5ppv.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsatpremium5.png" group-title="┃PL┃ SPORT",┃PL┃ POLSAT SPORT PREM. 5 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227295&extension=ts
+#EXTINF:0 tvg-id="polsatsportpremium6ppv.pl" tvg-name="polsatsportpremium6ppv.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsta_sport_premium_6.png" group-title="┃PL┃ SPORT",┃PL┃ POLSAT SPORT PREM  PPV6 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227294&extension=ts
+#EXTINF:0 tvg-id="elevensports1.pl" tvg-name="elevensports1.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Eleven_Sports.png" group-title="┃PL┃ SPORT",┃PL┃ ELEVEN SPORT 1 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227293&extension=ts
+#EXTINF:0 tvg-id="elevensports2.pl" tvg-name="elevensports2.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Eleven_Sports.png" group-title="┃PL┃ SPORT",┃PL┃ ELEVEN SPORT 2 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227292&extension=ts
+#EXTINF:0 tvg-id="elevensports3.pl" tvg-name="elevensports3.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Eleven_Sports.png" group-title="┃PL┃ SPORT",┃PL┃ ELEVEN SPORT 3 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227291&extension=ts
+#EXTINF:0 tvg-id="elevensportsports4.pl" tvg-name="elevensportsports4.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Eleven_Sports.png" group-title="┃PL┃ SPORT",┃PL┃ ELEVEN SPORT 4 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227290&extension=ts
+#EXTINF:0 tvg-id="golfchannel.pl" tvg-name="golfchannel.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Golf-Channel-Polska-1.png" group-title="┃PL┃ SPORT",┃PL┃ GOLF CHANNEL
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227289&extension=ts
+#EXTINF:0 tvg-id="fightbox.pl" tvg-name="fightbox.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/FightBoxHD-logo.png" group-title="┃PL┃ SPORT",┃PL┃ FIGHTBOX HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227288&extension=ts
+#EXTINF:0 tvg-id="fightklub.pl" tvg-name="fightklub.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/fightklub-hd.png" group-title="┃PL┃ SPORT",┃PL┃ FIGHTKLUB HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227287&extension=ts
+#EXTINF:0 tvg-id="polsatsportfight.pl" tvg-name="polsatsportfight.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/ksw_logo%20(1).png" group-title="┃PL┃ SPORT",┃PL┃ PPV KSW FIGHTS (LIVE ON MATCHES)
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227286&extension=ts
+#EXTINF:0 tvg-id="tvpsport.pl" tvg-name="tvpsport.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TVP_Sport.png" group-title="┃PL┃ SPORT",┃PL┃ TVP SPORT HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227285&extension=ts
+#EXTINF:0 tvg-id="polsatsportnews.pl" tvg-name="polsatsportnews.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsatnews.png" group-title="┃PL┃ SPORT",┃PL┃ POLSAT SPORT NEWS HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227284&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ CANAL+ EXTRA",┃PL┃ CANAL+ EXTRA 1 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=879145&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ CANAL+ EXTRA",┃PL┃ CANAL+ EXTRA 2 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=879146&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ CANAL+ EXTRA",┃PL┃ CANAL+ EXTRA 3 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=879147&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="┃PL┃ CANAL+ EXTRA",┃PL┃ CANAL+ EXTRA 4 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=879148&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 1 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227513&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 2 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227512&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 3 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227511&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 4 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227510&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 5 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227509&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 6 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227508&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 7 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227507&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 8 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227506&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 9 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227505&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 10 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227504&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 11 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227503&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 12 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227502&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 13 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227501&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 14 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227500&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 15 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227499&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 16 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227498&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 17 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227497&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 18 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227496&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 19 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227495&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 20 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227494&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 21 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227493&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 22 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227492&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 23 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227491&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 24 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227490&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 25 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227489&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 26 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227488&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 27 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227487&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 28 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227486&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 29 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227485&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 30 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227484&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 31 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227483&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 32 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227482&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 33 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227481&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 34 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227480&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 35 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227479&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 36 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227478&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 37 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227477&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 38 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227476&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 39 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227475&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 40 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227474&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 41 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227473&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 42 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227472&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 43 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227471&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 44 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227470&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 45 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227469&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 46 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227468&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 47 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227467&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 48 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227466&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/viaplay-logo.png" group-title="┃PL┃ VIAPLAY",┃PL┃ VIAPLAY XTRA 49 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227465&extension=ts
+#EXTINF:0 tvg-id="canalpluspremium.pl" tvg-name="canalpluspremium.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Canal+_Premium.svg.png" group-title="┃PL┃ FILMOWE",┃PL┃ CANAL+ PREMIUM HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227446&extension=ts
+#EXTINF:0 tvg-id="canalplus1.pl" tvg-name="canalplus1.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃PL┃ FILMOWE",┃PL┃ CANAL+ 1 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227445&extension=ts
+#EXTINF:0 tvg-id="canalplusfamily.pl" tvg-name="canalplusfamily.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/canalplusfamily.png" group-title="┃PL┃ FILMOWE",┃PL┃ CANAL+ FAMILY HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227444&extension=ts
+#EXTINF:0 tvg-id="canalplusnow.pl" tvg-name="canalplusnow.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/C+Now.png" group-title="┃PL┃ FILMOWE",┃PL┃ CANAL+ NOW
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227442&extension=ts
+#EXTINF:0 tvg-id="canalplusfilm.pl" tvg-name="canalplusfilm.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/canalplusfilm.png" group-title="┃PL┃ FILMOWE",┃PL┃ CANAL+ FILM HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227439&extension=ts
+#EXTINF:0 tvg-id="canalplusseriale.pl" tvg-name="canalplusseriale.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/canal-plus-seriale.png" group-title="┃PL┃ FILMOWE",┃PL┃ CANAL+ SERIALE HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227438&extension=ts
+#EXTINF:0 tvg-id="filmboxextra.pl" tvg-name="filmboxextra.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Filmbox_extra_pl.png" group-title="┃PL┃ FILMOWE",┃PL┃ FILMBOX EXTRA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227436&extension=ts
+#EXTINF:0 tvg-id="filmboxpremium.pl" tvg-name="filmboxpremium.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/FilmBoxPremium-logo.png" group-title="┃PL┃ FILMOWE",┃PL┃ FILMBOX PREMIUM HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227435&extension=ts
+#EXTINF:0 tvg-id="filmboxaction.pl" tvg-name="filmboxaction.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Filmbox-action.png" group-title="┃PL┃ FILMOWE",┃PL┃ FILMBOX ACTION
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227434&extension=ts
+#EXTINF:0 tvg-id="filmboxfamily.pl" tvg-name="filmboxfamily.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/filmbox-famly-logo.png" group-title="┃PL┃ FILMOWE",┃PL┃ FILMBOX FAMILY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227433&extension=ts
+#EXTINF:0 tvg-id="filmboxarthouse.pl" tvg-name="filmboxarthouse.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Filmbox_arthouse_pl.png" group-title="┃PL┃ FILMOWE",┃PL┃ FILMBOX ARTHOUSE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227432&extension=ts
+#EXTINF:0 tvg-id="cinemax.pl" tvg-name="cinemax.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Cinemax_red.png" group-title="┃PL┃ FILMOWE",┃PL┃ CINEMAX HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227431&extension=ts
+#EXTINF:0 tvg-id="cinemax2.pl" tvg-name="cinemax2.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Cinemax_2_logo.png" group-title="┃PL┃ FILMOWE",┃PL┃ CINEMAX 2 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227430&extension=ts
+#EXTINF:0 tvg-id="hbo.pl" tvg-name="hbo.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/HBO_logo.svg.png" group-title="┃PL┃ FILMOWE",┃PL┃ HBO HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227429&extension=ts
+#EXTINF:0 tvg-id="hbo2.pl" tvg-name="hbo2.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/640px-HBO_2_Logo_Poland.png" group-title="┃PL┃ FILMOWE",┃PL┃ HBO 2 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227428&extension=ts
+#EXTINF:0 tvg-id="hbo3.pl" tvg-name="hbo3.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/HBO3.png" group-title="┃PL┃ FILMOWE",┃PL┃ HBO 3 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227427&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/PLVODTV.png" group-title="┃PL┃ FILMOWE",┃PL┃ VOD 205
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227426&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/PLVODTV.png" group-title="┃PL┃ FILMOWE",┃PL┃ VOD 206
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227425&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/PLVODTV.png" group-title="┃PL┃ FILMOWE",┃PL┃ VOD 207
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227424&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/PLVODTV.png" group-title="┃PL┃ FILMOWE",┃PL┃ VOD 208
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227423&extension=ts
+#EXTINF:0 tvg-id="kinopolska.pl" tvg-name="kinopolska.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Kino_Polska_-_Logo.png" group-title="┃PL┃ FILMOWE",┃PL┃ KINO POLSKA HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227422&extension=ts
+#EXTINF:0 tvg-id="alekino.pl" tvg-name="alekino.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/1280px-Ale_Kino!_2006_-_Logo.svg.png" group-title="┃PL┃ FILMOWE",┃PL┃ ALE KINO  HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227362&extension=ts
+#EXTINF:0 tvg-id="novela.pl" tvg-name="novela.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Logo_novela_tv.png" group-title="┃PL┃ FILMOWE",┃PL┃ NOVELA TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227354&extension=ts
+#EXTINF:0 tvg-id="kinotv.pl" tvg-name="kinotv.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/KinoTV-logo-black.png" group-title="┃PL┃ FILMOWE",┃PL┃ KINO TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227344&extension=ts
+#EXTINF:0 tvg-id="tele5.pl" tvg-name="tele5.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Tele_5_29.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ TELE 5
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227458&extension=ts
+#EXTINF:0 tvg-id="fox.pl" tvg-name="fox.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/foxhd.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ FX HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227421&extension=ts
+#EXTINF:0 tvg-id="foxcomedy.pl" tvg-name="foxcomedy.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/FOX_COMEDY.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ FX COMEDY HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227420&extension=ts
+#EXTINF:0 tvg-id="axn.pl" tvg-name="axn.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/AXN_logo_(2015).svg.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ AXN HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227419&extension=ts
+#EXTINF:0 tvg-id="axnwhite.pl" tvg-name="axnwhite.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/AXN_White_logo_(2015).svg.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ AXN WHITE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227418&extension=ts
+#EXTINF:0 tvg-id="axnblack.pl" tvg-name="axnblack.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/AXN_Black_logo_(2015).svg.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ AXN BLACK
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227417&extension=ts
+#EXTINF:0 tvg-id="axnspin.pl" tvg-name="axnspin.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/AXN_Spin_logo_(2015).svg.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ AXN SPIN HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227416&extension=ts
+#EXTINF:0 tvg-id="scifi.pl" tvg-name="scifi.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/220px-Syfy.svg.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ SYFY HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227415&extension=ts
+#EXTINF:0 tvg-id="13ulica.pl" tvg-name="13ulica.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/13_Ulica_with_Slogan.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ 13 ULICA HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227414&extension=ts
+#EXTINF:0 tvg-id="eentertainment.pl" tvg-name="eentertainment.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/eentertainment.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ E! ENTERTAINMENT
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227413&extension=ts
+#EXTINF:0 tvg-id="cbseuropa.pl" tvg-name="cbseuropa.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/CBS_Europa.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ CBS EUROPA HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227411&extension=ts
+#EXTINF:0 tvg-id="comedycentral.pl" tvg-name="comedycentral.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Comedy_Central_2018.svg%20(1).png" group-title="┃PL┃ ROZRYWKA",┃PL┃ COMEDY CENTRAL HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227409&extension=ts
+#EXTINF:0 tvg-id="paramount.pl" tvg-name="paramount.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Paramount_Channel.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ PARAMOUNT CHANNEL HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227407&extension=ts
+#EXTINF:0 tvg-id="amc.pl" tvg-name="amc.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/AMC.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ AMC
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227406&extension=ts
+#EXTINF:0 tvg-id="romancetv.pl" tvg-name="romancetv.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Romance_TV_Logo_10.2019.svg.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ ROMANCE TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227390&extension=ts
+#EXTINF:0 tvg-id="wp.pl" tvg-name="wp.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/WP.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ WP
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227389&extension=ts
+#EXTINF:0 tvg-id="activefamily.pl" tvg-name="activefamily.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/activefamily.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ ACTIVE FAMILY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227388&extension=ts
+#EXTINF:0 tvg-id="bbcfirst.pl" tvg-name="bbcfirst.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/bbcfirst.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ BBC FIRST HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227385&extension=ts
+#EXTINF:0 tvg-id="zoomtv.pl" tvg-name="zoomtv.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Zoom_TV_(Poland).png" group-title="┃PL┃ ROZRYWKA",┃PL┃ ZOOM TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227355&extension=ts
+#EXTINF:0 tvg-id="sundancetv.pl" tvg-name="sundancetv.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Sundance_TV.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ SUNDANCE HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227353&extension=ts
+#EXTINF:0 tvg-id="nowatv.pl" tvg-name="nowatv.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/nova_tv_logo_podstawowe_v12_duze-01.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ NOWA TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227350&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/tvokazje.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ TV OKAZJE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227349&extension=ts
+#EXTINF:0 tvg-id="cbsreality.pl" tvg-name="cbsreality.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/CBS_Reality.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ CBS REALITY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227348&extension=ts
+#EXTINF:0 tvg-id="epicdramahd.pl" tvg-name="epicdramahd.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Epic_Drama.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ EPIC DRAMA HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227347&extension=ts
+#EXTINF:0 tvg-id="warnertv.pl" tvg-name="warnertv.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Warner2018LA.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ WARNER HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227346&extension=ts
+#EXTINF:0 tvg-id="stopklatka.pl" tvg-name="stopklatka.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/stopklatka.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ STOPKLATKA TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227343&extension=ts
+#EXTINF:0 tvg-id="starstv.pl" tvg-name="starstv.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Starz_TV.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ STARS.TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227342&extension=ts
+#EXTINF:0 tvg-id="studiomed.pl" tvg-name="studiomed.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/STUDIOMED_COLOUR@2x_GREEN.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ STUDIOMED TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227274&extension=ts
+#EXTINF:0 tvg-id="comedycentralextra.pl" tvg-name="comedycentralextra.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_logo.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ POLSAT COMEDY CENTRAL EXTRA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227273&extension=ts
+#EXTINF:0 tvg-id="novelasplus.pl" tvg-name="novelasplus.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Novelas.png" group-title="┃PL┃ ROZRYWKA",┃PL┃ NOVELAS+
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227272&extension=ts
+#EXTINF:0 tvg-id="canalplusdokumenttv.pl" tvg-name="canalplusdokumenttv.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/1200px-CANAL+_DOKUMENT.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ CANAL+ DOKUMENT HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227443&extension=ts
+#EXTINF:0 tvg-id="domo.pl" tvg-name="domo.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Canal+_Domo_logo_od_2021.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ CANAL+ DOMO HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227441&extension=ts
+#EXTINF:0 tvg-id="canalpluskuchina.pl" tvg-name="canalpluskuchina.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Canal+_Kuchnia_logo_od_2021.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ CANAL+ KUCHNIA HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227440&extension=ts
+#EXTINF:0 tvg-id="discovery.pl" tvg-name="discovery.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Discovery.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ CANAL+ DISCOVERY HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227437&extension=ts
+#EXTINF:0 tvg-id="tlc.pl" tvg-name="tlc.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/TLC-Logo_2016.svg.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ TLC HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227408&extension=ts
+#EXTINF:0 tvg-id="travelchannel.pl" tvg-name="travelchannel.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Travel_Channel_HD.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ TRAVEL CHANNEL HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227404&extension=ts
+#EXTINF:0 tvg-id="adventure.pl" tvg-name="adventure.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/adventuretv.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ ADVENTURE HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227401&extension=ts
+#EXTINF:0 tvg-id="davincilearning.pl" tvg-name="davincilearning.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/davinci.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ DA VINCI
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227400&extension=ts
+#EXTINF:0 tvg-id="foodnetwork.pl" tvg-name="foodnetwork.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Food_Network.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ FOOD NETWORK HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227399&extension=ts
+#EXTINF:0 tvg-id="domo.pl" tvg-name="domo.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Domo.tv_logo.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ DOMO+  HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227398&extension=ts
+#EXTINF:0 tvg-id="discoveryturboxtra.pl" tvg-name="discoveryturboxtra.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/1200px-DTX_Logo.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ DTX
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227397&extension=ts
+#EXTINF:0 tvg-id="fokustv.pl" tvg-name="fokustv.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/FOKUS-TV-GnT.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ FOKUS TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227396&extension=ts
+#EXTINF:0 tvg-id="canalpluskuchina.pl" tvg-name="canalpluskuchina.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Canal+_Kuchnia_logo_od_2021.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ KUCHNIA HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227395&extension=ts
+#EXTINF:0 tvg-id="motowizja.pl" tvg-name="motowizja.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/motowizja.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ MOTOWIZJA TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227394&extension=ts
+#EXTINF:0 tvg-id="bbcbrit.pl" tvg-name="bbcbrit.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/BBC_Brit_29.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ BBC BRIT
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227387&extension=ts
+#EXTINF:0 tvg-id="bbclifestyle.pl" tvg-name="bbclifestyle.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/bbclifestyle.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ BBC LIFESTYLE HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227386&extension=ts
+#EXTINF:0 tvg-id="metro.pl" tvg-name="metro.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Metro_-_logo_stacji_telewizyjnej.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ METRO
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227356&extension=ts
+#EXTINF:0 tvg-id="hgtv.pl" tvg-name="hgtv.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/HGTV_2010.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ HGTV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227351&extension=ts
+#EXTINF:0 tvg-id="natgeopeople.pl" tvg-name="natgeopeople.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Nat_Geo_People.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ NGC PEOPLE HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227335&extension=ts
+#EXTINF:0 tvg-id="animalplanet.pl" tvg-name="animalplanet.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/2018_Animal_Planet_logo.svg.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ ANIMAL PLANET HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227334&extension=ts
+#EXTINF:0 tvg-id="planete.pl" tvg-name="planete.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Planete.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ PLANETE  HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227333&extension=ts
+#EXTINF:0 tvg-id="cipolsat.pl" tvg-name="cipolsat.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/CI_Polsat.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ CI POLSAT HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227332&extension=ts
+#EXTINF:0 tvg-id="history.pl" tvg-name="history.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/History.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ HISTORY HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227331&extension=ts
+#EXTINF:0 tvg-id="investigationdiscovery.pl" tvg-name="investigationdiscovery.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Investigation_Discovery.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ ID HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227330&extension=ts
+#EXTINF:0 tvg-id="bbcearth.pl" tvg-name="bbcearth.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/bbcearth.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ BBC EARTH HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227328&extension=ts
+#EXTINF:0 tvg-id="history2.pl" tvg-name="history2.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/h2.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ H2 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227327&extension=ts
+#EXTINF:0 tvg-id="discoveryscience.pl" tvg-name="discoveryscience.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Discovery_Science.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ DISCOVERY SCIENCE HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227325&extension=ts
+#EXTINF:0 tvg-id="discovery.pl" tvg-name="discovery.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Discovery.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ DISCOVERY HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227324&extension=ts
+#EXTINF:0 tvg-id="discoverylife.pl" tvg-name="discoverylife.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Discovery_Life_29.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ DISCOVERY LIFE HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227323&extension=ts
+#EXTINF:0 tvg-id="discoveryhistoria.pl" tvg-name="discoveryhistoria.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Discovery_Historia.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ DISCOVERY HISTORIA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227322&extension=ts
+#EXTINF:0 tvg-id="polsatviasatexpl.pl" tvg-name="polsatviasatexpl.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Viasat_Explore.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ POLSAT VIASAT EXPLORE HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227318&extension=ts
+#EXTINF:0 tvg-id="natgeowild.pl" tvg-name="natgeowild.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/National_Geographic_Wild_Logo_2019.svg.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ NGC WILD HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227317&extension=ts
+#EXTINF:0 tvg-id="waterplanet.pl" tvg-name="waterplanet.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/waterplanet.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ WATER PLANET
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227316&extension=ts
+#EXTINF:0 tvg-id="polsatviasathist.pl" tvg-name="polsatviasathist.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Viasat_History.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ POLSAT VIASAT HISTORY HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227315&extension=ts
+#EXTINF:0 tvg-id="polsatviasatnature.pl" tvg-name="polsatviasatnature.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsatnature.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ POLSAT VIASAT NATURE HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227314&extension=ts
+#EXTINF:0 tvg-id="natgeo.pl" tvg-name="natgeo.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NATIONALGEOGRAPHICHD.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ NGC HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227313&extension=ts
+#EXTINF:0 tvg-id="investigationdiscovery.pl" tvg-name="investigationdiscovery.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Crime.png" group-title="┃PL┃ PRZYRODNICZE",┃PL┃ CRIME & INVESTIGATION HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227312&extension=ts
+#EXTINF:0 tvg-id="babytv.pl" tvg-name="babytv.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/babytv.png" group-title="┃PL┃ BAJKI",┃PL┃ BABY TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227384&extension=ts
+#EXTINF:0 tvg-id="jimjam.pl" tvg-name="jimjam.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/JimJam_logo.png" group-title="┃PL┃ BAJKI",┃PL┃ POLSAT JIM JAM
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227383&extension=ts
+#EXTINF:0 tvg-id="cartoonnetwork.pl" tvg-name="cartoonnetwork.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Boomerang_tv_logo.png" group-title="┃PL┃ BAJKI",┃PL┃ CARTOONITO HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227382&extension=ts
+#EXTINF:0 tvg-id="cartoonnetwork.pl" tvg-name="cartoonnetwork.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Cartoon_Network.png" group-title="┃PL┃ BAJKI",┃PL┃ CARTOON NETWORK HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227381&extension=ts
+#EXTINF:0 tvg-id="disneyxd.pl" tvg-name="disneyxd.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Disney_XD.png" group-title="┃PL┃ BAJKI",┃PL┃ DISNEY XD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227380&extension=ts
+#EXTINF:0 tvg-id="disneyjunior.pl" tvg-name="disneyjunior.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Disney_Junior_Logo.png" group-title="┃PL┃ BAJKI",┃PL┃ DISNEY JUNIOR
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227379&extension=ts
+#EXTINF:0 tvg-id="disneychannel.pl" tvg-name="disneychannel.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Disney_Channel_2022.png" group-title="┃PL┃ BAJKI",┃PL┃ DISNEY CHANNEL HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227378&extension=ts
+#EXTINF:0 tvg-id="nickjr.pl" tvg-name="nickjr.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Nick_Jr._logo_2023.png" group-title="┃PL┃ BAJKI",┃PL┃ NICK JR
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227377&extension=ts
+#EXTINF:0 tvg-id="nickelodeon.pl" tvg-name="nickelodeon.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Nickelodeon_2023_logo_(outline).svg.png" group-title="┃PL┃ BAJKI",┃PL┃ NICKELODEON
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227376&extension=ts
+#EXTINF:0 tvg-id="nicktoons.pl" tvg-name="nicktoons.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Nicktoons_2023_(outline).png" group-title="┃PL┃ BAJKI",┃PL┃ NICKTOONS HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227375&extension=ts
+#EXTINF:0 tvg-id="teletoon.pl" tvg-name="teletoon.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Teletoon.png" group-title="┃PL┃ BAJKI",┃PL┃ TELETOON  HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227374&extension=ts
+#EXTINF:0 tvg-id="minimini.pl" tvg-name="minimini.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/MiniMini_logo.png" group-title="┃PL┃ BAJKI",┃PL┃ MINIMINI  HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227373&extension=ts
+#EXTINF:0 tvg-id="bbccbeebies.pl" tvg-name="bbccbeebies.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Cbeebies.png" group-title="┃PL┃ BAJKI",┃PL┃ BBC CBEEBIES
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227372&extension=ts
+#EXTINF:0 tvg-id="polsatgames.pl" tvg-name="polsatgames.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Games.png" group-title="┃PL┃ BAJKI",┃PL┃ POLSAT GAMES
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227371&extension=ts
+#EXTINF:0 tvg-id="tvpabc.pl" tvg-name="tvpabc.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Logo_TVP_ABC.svg.png" group-title="┃PL┃ BAJKI",┃PL┃ TVP ABC
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227360&extension=ts
+#EXTINF:0 tvg-id="nutatv.pl" tvg-name="nutatv.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Nutatv_logo655.png" group-title="┃PL┃ MUZYKA",┃PL┃ NUTA TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227393&extension=ts
+#EXTINF:0 tvg-id="powertv.pl" tvg-name="powertv.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/POWER_TV_HD.png" group-title="┃PL┃ MUZYKA",┃PL┃ POWER TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227392&extension=ts
+#EXTINF:0 tvg-id="mtvlive.pl" tvg-name="mtvlive.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/MTVLIVEHD.png" group-title="┃PL┃ MUZYKA",┃PL┃ MTV LIVE HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227369&extension=ts
+#EXTINF:0 tvg-id="mtv00s.pl" tvg-name="mtv00s.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/MTV_ROCKS.png" group-title="┃PL┃ MUZYKA",┃PL┃ MTV ROCKS
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227366&extension=ts
+#EXTINF:0 tvg-id="kinopolskamuzyka.pl" tvg-name="kinopolskamuzyka.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/kinopolskamuzyka.png" group-title="┃PL┃ MUZYKA",┃PL┃ KINO POLSKA MUZYKA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227365&extension=ts
+#EXTINF:0 tvg-id="mtvpolska.pl" tvg-name="mtvpolska.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/MTV_29,png.png" group-title="┃PL┃ MUZYKA",┃PL┃ MTV POLSKA HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227364&extension=ts
+#EXTINF:0 tvg-id="polsatmusic.pl" tvg-name="polsatmusic.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/mtvmusic.png" group-title="┃PL┃ MUZYKA",┃PL┃ MTV MUSIC
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227363&extension=ts
+#EXTINF:0 tvg-id="gold.pl" tvg-name="gold.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/GOLDTV-logo.png" group-title="┃PL┃ MUZYKA",┃PL┃ GOLD TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227361&extension=ts
+#EXTINF:0 tvg-id="4funtv.pl" tvg-name="4funtv.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/4fun.tv_Logo_(2017).svg.png" group-title="┃PL┃ MUZYKA",┃PL┃ 4FUN.TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227341&extension=ts
+#EXTINF:0 tvg-id="polsatmusic.pl" tvg-name="polsatmusic.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Music.svg.png" group-title="┃PL┃ MUZYKA",┃PL┃ POLSAT MUSIC HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227340&extension=ts
+#EXTINF:0 tvg-id="voxmusic.pl" tvg-name="voxmusic.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Vox_Music.png" group-title="┃PL┃ MUZYKA",┃PL┃ VOX MUSIC TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227339&extension=ts
+#EXTINF:0 tvg-id="eskarock.pl" tvg-name="eskarock.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Eska_Rock_TV_(2017-.n.v.).webp.png" group-title="┃PL┃ MUZYKA",┃PL┃ ESKA ROCK TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227338&extension=ts
+#EXTINF:0 tvg-id="eskatv.pl" tvg-name="eskatv.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/EskaTV_logo_2011.png" group-title="┃PL┃ MUZYKA",┃PL┃ ESKA TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227337&extension=ts
+#EXTINF:0 tvg-id="eskatvextra.pl" tvg-name="eskatvextra.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Eska_TV_Extra_-_Nowy_Kana%C5%82_zast%C4%85pi%C5%82_Eska_TV.png" group-title="┃PL┃ MUZYKA",┃PL┃ ESKA TV EXTRA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227336&extension=ts
+#EXTINF:0 tvg-id="discopolomusic.pl" tvg-name="discopolomusic.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/disco-polo-polska-poland-polen-sticker.png" group-title="┃PL┃ MUZYKA",┃PL┃ DISCO POLO MUSIC
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227321&extension=ts
+#EXTINF:0 tvg-id="4fundance.pl" tvg-name="4fundance.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/4fun.tv_Logo_(2017).svg.png" group-title="┃PL┃ MUZYKA",┃PL┃ 4FUN GOLD HITS
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227320&extension=ts
+#EXTINF:0 tvg-id="4fundance.pl" tvg-name="4fundance.pl" tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/4fun.tv_Logo_(2017).svg.png" group-title="┃PL┃ MUZYKA",┃PL┃ 4FUN DANCE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=227319&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="FOR ADULTS",┃ADULT┃ PENTHOUSE RALITY HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=743598&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="FOR ADULTS",┃ADULT┃ PENTHOUSE GOLD HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=743597&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="FOR ADULTS",┃ADULT┃ PENTHOUSE PASSION HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=743599&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="FOR ADULTS",┃ADULT┃ PENTHOUSE BLACK HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=743600&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PENTHOUSE QUICKIES HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=18370&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="FOR ADULTS",┃ADULT┃ BRAZZERS TV EUROPE HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=743601&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="FOR ADULTS",┃ADULT┃ BRAZZERS TV EUROPE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=743602&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="FOR ADULTS",┃ADULT┃ PASSIE XXX HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=743604&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="FOR ADULTS",┃ADULT┃ PASSION XXX HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=743605&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="FOR ADULTS",┃ADULT┃ PASSION XXX EUROPE HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=743606&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="FOR ADULTS",┃ADULT┃ DORCEL TV EUROPE HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=743609&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="FOR ADULTS",┃ADULT┃ DORCEL TV XXX HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=743613&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="FOR ADULTS",┃ADULT┃  EROX TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=743615&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="FOR ADULTS",┃ADULT┃ EROX XXX TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=743616&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="FOR ADULTS",┃ADULT┃ HUSTLER TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=743607&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="FOR ADULTS",┃ADULT┃ MEIDEN VAN HOLLAND HARD HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=743611&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="FOR ADULTS",┃ADULT┃ DUSK! TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=743618&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="FOR ADULTS",┃ADULT┃ VENUS HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=743644&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="FOR ADULTS",┃ADULT┃ CENTO X CENTO HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=743645&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ NEO Gay 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=18166&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ HOLED FHD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675225&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ HOT CLUB 1 FHD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675224&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ HOT CLUB 2 FHD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675223&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ ADULT 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675222&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ HUSTLER HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675221&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ JASMIN TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675220&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ LEO TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675219&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ LOVE TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675217&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ LUXURE TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675216&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ MASSAGE ROOMS HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675215&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ MATURE 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675214&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ MILF 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675212&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ MILF 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675211&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ MY FAMILY PIES
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675209&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ NEO GAY 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675208&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ NFBUSTY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675207&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ NUBILES FHD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675206&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ AST TV1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675205&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ OLDTIMER HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675204&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PENTHOUSE 2 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675203&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PENTHOUSE GOLD FHD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675202&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PENTHOUSE Q HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675201&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PERV FAMILY HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675200&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ SUGARBABES FHD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675199&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PINK EROTIC 1 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675198&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PINK EROTIC 2 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675197&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PINK EROTIC 3 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675196&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PINK EROTIC 4 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675195&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PINK EROTIC 5  HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675194&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PINK EROTIC 6 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675193&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PINK EROTIC 7 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675192&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PINK EROTIC 8 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675191&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PINKO CLUB HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675190&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PINKO TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675189&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PLAYBOY TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675188&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PLAYHOUSE HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675187&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PLAYSEX TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675186&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PORNOX TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675185&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PORSTAR
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675184&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PRIVATE HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675183&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PULSION TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675182&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ REALITY KINGS TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675181&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ RED X
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675180&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ REDLIGHT HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675179&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ SIRINA 3 FHD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675178&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ SEX MEX CHANNEL
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675177&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ SEXT6SENSO
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675176&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ SEXTREME
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675175&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ ZONE+ ADULT 1 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675174&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ ZONE+ ADULT 2 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675173&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ ZONE+ ADULT 3 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675172&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ ZONE+ ADULT 4 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675171&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ ZONE+ ADULT 5 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675170&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ ZONE+ ADULT 6 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675169&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ ZONE+ ADULT 7 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675168&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ ZONE+ ADULT 8 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675167&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ ZONE+ ADULT 9 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675166&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ ZONE+ EROTIC HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675165&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ SPIZOO HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675164&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ SUPERONE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675163&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ TABOO HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675162&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ TUSHY 2 TV FHD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675161&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ UNDERSEX TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675160&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ VENUS
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675159&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ VENUSEXO TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675158&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ VISIT-X TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675157&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ VIVID EUROPE HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675156&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ VIVID RED HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675155&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ X-MO
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675154&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ XPLUS-FETİSH  HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675153&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ XXL
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675152&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ XY MAX TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675151&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ XY PLUS HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675150&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ LATINA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675149&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ ШАЛУН
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675148&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ BESTGIRLS TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675147&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ HARD HOT TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675146&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ NUTS TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675145&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ SIRINA 1 FHD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675144&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PROSEX TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675143&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ NIGHT TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675142&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PASSIONX TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675141&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ ALBA XXX HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675140&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ AMATEURBOX
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675139&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ APHRODITE TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675138&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ ASSPARADE FHD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675137&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ BABES TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675135&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ BALKAN EROTIC
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675134&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ BANGBUS FHD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675133&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ BARELY LEGAL TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675132&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ BIG TITS 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675131&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ ADULT 4
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675130&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ BLACKED RAW HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675129&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ BLUE HUSTLER HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675128&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ BRAZZERS
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675127&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ CANDY
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675126&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ CASTING COUCH FHD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675125&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ CENTO X CENTO
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675124&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ CHECH SEX CASTING
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675123&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ COMPILATION
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675122&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ COSMID FHD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675121&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ COUGARS TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675120&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ CUCKOLD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675119&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ ADULT 7
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675118&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ ADULT 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675117&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ DESPERATEPLEASURE
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675116&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ ADULT 6
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675115&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ DORCEL TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675114&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ DORCEL XXX HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675113&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ DUSK TV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675112&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ ELEGANT RAW FHD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675111&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ EROX HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675110&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ EROXXX HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675109&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ EVILANGEL
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675108&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ EXEGIRLS TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675107&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ EXTASY HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675106&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ RUSSIAN
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675105&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ FAP TV 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675104&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ FAP TV 4
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675103&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ SIRINA 2 FHD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675102&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ MEGA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675101&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ FRANCE A POİL2  FHD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675100&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ FRANCESEX TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675099&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ GAY TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=675098&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ LEGAL PORNO 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686439&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ LEGAL PORNO 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686438&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ LEGAL PORNO 4
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686437&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ LEGAL PORNO 5
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686436&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ LEGAL PORNO 6
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686435&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ BANGBROS 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686431&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ BANGBROS 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686430&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ BANGBROS 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686429&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ BANGBROS 4
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686428&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ BRAZZERS 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686427&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ BRAZZERS 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686426&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ BRAZZERS 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686425&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ BRAZZERS 4
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686424&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ BRAZZERS 5
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686423&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ 18 TEENS MIXED 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686434&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ 21 MIXED 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686433&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ 21 MIXED 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686432&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ BRUTAL FISTIN
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686422&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ DDF NETWORK
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686421&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ EVEILANGEL 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686420&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ EVEILANGEL 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686419&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ EVEILANGEL 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686418&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ EVEILANGEL 4
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686417&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ EVEILANGEL 5
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686416&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ FAKE TAXI 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686415&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ FAKE TAXI 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686414&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ FAKE TAXI 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686413&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ GONZO 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686412&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ GONZO 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686411&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ GONZO 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686410&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ GONZO 4
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686409&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ HARDX 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686408&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ HARDX 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686407&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ JULESJORDAN 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686406&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ JULESJORDAN 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686405&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ JULESJORDAN 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686404&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ TUSHY 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686403&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ TUSHY 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686402&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ FAKE MIXED 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686401&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ MOFOS 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686400&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ SWALLOWED 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686399&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PUBLIC AGENT 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686398&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ REALITY KINGS 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686397&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ TRUE ANAL 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686396&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ FILMAX ADULT 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686395&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ FILMAX ADULT 2
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686394&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ FILMAX ADULT 3
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686393&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ FILMAX ADULT 4
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686392&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ FILMAX ADULT 5
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686391&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ FILMAX ADULT 6 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686390&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ FILMAX ADULT 7 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686389&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ FILMAX ADULT 8 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686388&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ FILMAX ADULT 9 HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686387&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ TRANS 1
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686381&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ TEEN
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686363&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ BRAZZERS TV HD
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686361&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ ADULT LATINA
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686342&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ BBIG ASS
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686341&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ BIG DICK
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686340&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ BIG TITS
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686339&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ FAKE TAXI
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686338&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ ADULT PORNSTAR
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686336&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ FETISH
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686332&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ HARDCORE XXX
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686331&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ INTERRACIAL
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686330&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ LESBIAN
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686329&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ MILF
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686328&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ PORNSTAR
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686327&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/ADULT.png" group-title="FOR ADULTS",┃ADULT┃ POV
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:FB:13:A1&stream=686326&extension=ts
